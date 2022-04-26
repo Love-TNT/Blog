@@ -18,7 +18,7 @@ TODO_ISSUES_LABELS = ["TODO"]
 FRIENDS_LABELS = ["Friends"]
 IGNORE_LABELS = FRIENDS_LABELS + TOP_ISSUES_LABELS + TODO_ISSUES_LABELS
 
-FRIENDS_TABLE_HEAD = "Everyone is important to me \n"
+FRIENDS_TABLE_HEAD = "Everyone is important to me <br>"
 FRIENDS_TABLE_TEMPLATE = "[{name}]({link}) ：{desc} \n"
 FRIENDS_INFO_DICT = {
     "名字": "",
