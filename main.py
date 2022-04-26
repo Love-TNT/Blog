@@ -18,8 +18,8 @@ TODO_ISSUES_LABELS = ["TODO"]
 FRIENDS_LABELS = ["Friends"]
 IGNORE_LABELS = FRIENDS_LABELS + TOP_ISSUES_LABELS + TODO_ISSUES_LABELS
 
-FRIENDS_TABLE_HEAD = "Everyone is important to me <br>"
-FRIENDS_TABLE_TEMPLATE = "[{name}]({link}) ：{desc} <br>"
+FRIENDS_TABLE_HEAD = "Everyone is important to me \n"
+FRIENDS_TABLE_TEMPLATE = "[{name}]({link}) ：{desc} \n"
 FRIENDS_INFO_DICT = {
     "名字": "",
     "链接": "",
@@ -169,7 +169,6 @@ def add_md_recent(repo, md, me, limit=5):
         # one the issue that only one issue and delete (pyGitHub raise an exception)
         try:
             md.write("## 最近更新\n")
-            md.write(s)
             for issue in repo.get_issues():
                 if is_me(issue, me):
                     add_issue_info(issue, md)
