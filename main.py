@@ -8,7 +8,7 @@ from github import Github
 from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
-MD_HEAD = """## TNT's blog
+MD_HEAD = """## TNT
 """
 
 BACKUP_DIR = "BACKUP"
