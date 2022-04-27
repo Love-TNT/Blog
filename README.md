@@ -1,7 +1,7 @@
 ## TNT
 ## 友情链接
 Everyone is important to me <br>[TNT](https://space.bilibili.com/476370505) ：The owner <br> 
-[洛苏锦](https://github.com/Brocade233) ： <br> 
+[洛苏锦](https://b23.tv/j8ABSw6) ：憨憨 <br> 
 [TNT](https://github.com/tnt-love) ：？？？ <br> 
 ## 最近更新
 - [友情链接](https://github.com/Love-TNT/Blog/issues/2)--2022-04-24

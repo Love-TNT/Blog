@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/Love-TNT/Blog</id><title>RSS feed of Love-TNT's Blog</title><updated>2022-04-26T04:22:45.306778+00:00</updated><author><name>love-tnt</name><email>1794829414@qq.com</email></author><link href="https://github.com/Love-TNT/Blog"/><link href="https://raw.githubusercontent.com/Love-TNT/Blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/Love-TNT/Blog/issues/2</id><title>友情链接</title><updated>2022-04-26T04:22:45.637914+00:00</updated><content type="html"><![CDATA[<p>格式</p>
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/Love-TNT/Blog</id><title>RSS feed of Love-TNT's Blog</title><updated>2022-04-27T12:24:26.903596+00:00</updated><author><name>love-tnt</name><email>1794829414@qq.com</email></author><link href="https://github.com/Love-TNT/Blog"/><link href="https://raw.githubusercontent.com/Love-TNT/Blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/Love-TNT/Blog/issues/2</id><title>友情链接</title><updated>2022-04-27T12:24:27.265280+00:00</updated><content type="html"><![CDATA[<p>格式</p>
 <p>名字：xxx
 链接：xxx
 描述：xxx</p>
-]]></content><link href="https://github.com/Love-TNT/Blog/issues/2" rel="alternate"/><category term="Friends"/><published>2022-04-24T18:21:51+00:00</published></entry><entry><id>https://github.com/Love-TNT/Blog/issues/1</id><title>如何开一个MC服务器#1</title><updated>2022-04-26T04:22:45.800003+00:00</updated><content type="html"><![CDATA[<h3>准备</h3>
+]]></content><link href="https://github.com/Love-TNT/Blog/issues/2" rel="alternate"/><category term="Friends"/><published>2022-04-24T18:21:51+00:00</published></entry><entry><id>https://github.com/Love-TNT/Blog/issues/1</id><title>如何开一个MC服务器#1</title><updated>2022-04-27T12:24:27.428740+00:00</updated><content type="html"><![CDATA[<h3>准备</h3>
 <pre><code>1.首先你电脑上要有java  
 
 2.准备好服务器核心  
